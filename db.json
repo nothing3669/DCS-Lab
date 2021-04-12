@@ -5,46 +5,55 @@
     {
       "id": 1,
       "title": "Image 1",
+      "desc": "Image Name",
       "img": "https://wallpapercave.com/wp/wp2450497.jpg"
     },
     {
       "id": 2,
       "title": "Image 2",
+      "desc": "Image Name",
       "img": "https://wallpapercave.com/wp/wp2450491.jpg"
     },
     {
       "id": 3,
       "title": "Image 3",
+      "desc": "Image Name",
       "img": "https://wallpapercave.com/wp/wp2450495.jpg"
     },
     {
       "id": 4,
       "title": "Image 4",
+      "desc": "Image Name",
       "img": "https://images.unsplash.com/photo-1578356058390-f58c575337a2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fHBldHJvbGV1bXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
     },
     {
       "id": 5,
       "title": "Image 5",
+      "desc": "Image Name",
       "img": "https://wallpaperaccess.com/full/2055284.jpg"
     }, 
     {
       "id": 6,
       "title": "Image 6",
+      "desc": "Image Name",
       "img": "https://wallpapercave.com/wp/wp2450504.jpg"
     }, 
     {
       "id": 7,
       "title": "Image 6",
+      "desc": "Image Name",
       "img": "https://www.oklahomaminerals.com/wp-content/uploads/2017/06/drilling_rig.jpg"
     }, 
     {
       "id": 8,
       "title": "Image 6",
+      "desc": "Image Name",
       "img": "https://c1.wallpaperflare.com/preview/255/212/1013/rig-drilling-drilling-rig-oil.jpg"
     }, 
     {
       "id": 9,
       "title": "Image 6",
+      "desc": "Image Name",
       "img": "https://wallpapercave.com/wp/wp2450496.jpg"
     }
   ]
