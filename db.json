@@ -1,1 +1,36 @@
 
+{
+  "Images": 
+  [
+    {
+      "id": 1,
+      "title": "Image 1",
+      "img": "https://92newshd.tv/wp-content/uploads/2018/08/Petrol.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Image 2",
+      "img": "https://advancetestinglab.com/wp-content/uploads/2020/05/photo17-640x360.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Image 3",
+      "img": "https://wallpapercave.com/wp/wp2450495.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Image 4",
+      "img": "https://images.unsplash.com/photo-1578356058390-f58c575337a2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fHBldHJvbGV1bXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Image 5",
+      "img": "https://wallpaperaccess.com/full/2055284.jpg"
+    }, 
+    {
+      "id": 6,
+      "title": "Image 6",
+      "img": "https://c0.wallpaperflare.com/preview/455/974/550/oil-rig-drill-engineer.jpg"
+    }
+  ]
+}
