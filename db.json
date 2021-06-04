@@ -113,5 +113,64 @@
       "image": "https://raw.githubusercontent.com/nothing3669/Images/main/j.png",
       "desc": "This is the Third Image of Home Page"
     }
+  ],
+  "Review": 
+  [
+    {
+      "id": 1,
+      "name": "George W. Bush",
+      "deg": "43th President of the USA",
+      "desc": "George Walker Bush (born July 6, 1946) is an American politician and businessman who served as the 43rd president of the United States from 2001 to 2009. A member of the Republican Party, Bush previously served as the 46th governor of Texas from 1995 to 2000. He was born into the Bush family; his father, George H. W. Bush, was the 41st president of the United States from 1989 to 1993.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg"
+    },
+    {
+    "id": 2,
+    "name": "Barack Obama",
+    "deg": "44th President of the USA",
+    "desc": "It is not merely that this book avoids being ponderous, as might be expected, even forgiven, of a hefty memoir, but that it is nearly always pleasurable to read, sentence by sentence, the prose gorgeous in places, the detail granular and vivid. From Southeast Asia to a forgotten school in South Carolina, he evokes the sense of place with a light but sure hand. This is the first of two volumes, and it starts early in his life, charting his initial political campaigns, and ends with a meeting in Kentucky where he is introduced to the SEAL team involved in the Abbottabad raid that killed Osama bin Laden.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Donald Trump",
+    "deg": "45th President of the USA",
+    "desc": "Donald John Trump (born June 14, 1946) is an American media personality and businessman who served as the 45th president of the United States from 2017 to 2021. Born and raised in Queens, New York City, Trump attended Fordham University and the University of Pennsylvania, graduating with a bachelor's degree in 1968. He became the president of his father Fred Trump's real estate business in 1971 and renamed it to The Trump Organization.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/330px-Donald_Trump_official_portrait.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Joe Biden",
+    "deg": "46th President of the USA",
+    "desc": "Joseph Robinette Biden Jr. born November 20, 1942 is an American politician who is the 46th president of the United States. A member of the Democratic Party, he served as the 47th vice president from 2009 to 2017 under Barack Obama and represented Delaware in the United States Senate from 1973 to 2009. Born and raised in Scranton, Pennsylvania, and later in New Castle County, Delaware, Biden studied at the University of Delaware before earning his law degree from Syracuse University in 1968.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vladmir Putin",
+    "deg": "President of Russia",
+    "desc": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who is serving as the current president of Russia since 2012, previously being in the office from 1999 until 2008. He was also prime minister from 1999 to 2000 and again from 2008 to 2012. As of 2021, Putin is the second-longest serving European president, after Alexander Lukashenko of Belarus.",
+    "img": "https://c.ndtvimg.com/2021-01/2rclqg88_vladimir-putin_625x300_24_January_21.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Xi Jinping",
+    "deg": "President of China",
+    "desc": "Xi Jinping (/ˌʃiː dʒɪnˈpɪŋ/ (About this soundlisten) SHEE jin-PING; Chinese: 习近平, [ɕǐ tɕîn pʰǐŋ]; born 15 June 1953) is a Chinese politician who has served as General Secretary of the Chinese Communist Party (CCP) and Chairman of the Central Military Commission (CMC) since 2012, and President of the People's Republic of China (PRC) since 2013. Xi has been the paramount leader of China, the most prominent political leader in China, since 2012.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Xi_Jinping_2019_%2849060546152%29_2.jpg/330px-Xi_Jinping_2019_%2849060546152%29_2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Queen Elizabeth II",
+    "deg": "The Queen of the United Kingdom",
+    "desc": "Elizabeth II (Elizabeth Alexandra Mary; born 21 April 1926)[a] is Queen of the United Kingdom and 15 other Commonwealth realms.Elizabeth was born in Mayfair, London, as the first child of the Duke and Duchess of York (later King George VI and Queen Elizabeth). Her father ascended the throne on the abdication of his brother King Edward VIII in 1936, from which time she was the heir presumptive. She was educated privately at home and began to undertake public duties during the Second World War, serving in the Auxiliary Territorial Service. In 1947, she married Philip, Duke of Edinburgh, a former prince of Greece and Denmark, with whom she had four children: Charles, Prince of Wales, Anne, Princess Royal, Prince Andrew, Duke of York; and Prince Edward, Earl of Wessex.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Queen_Elizabeth_II_in_March_2015.jpg/330px-Queen_Elizabeth_II_in_March_2015.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Narendra Modi",
+    "deg": "The Prime Minister of India",
+    "desc": "Narendra Damodardas Modi born 17 September 1950 is an Indian politician serving as the 14th and current Prime Minister of India since 2014. He was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi. Modi is a member of the Bharatiya Janata Party (BJP) and its National Democratic Alliance (NDA). He is also a member of the Rashtriya Swayamsevak Sangh (RSS), a Hindu nationalist volunteer organisation. He is the first prime minister born after India's independence, the second non-Congress one to win two consecutive terms after Atal Bihari Vajpayee and the first from outside the Congress to win both terms with a majority in the Lok Sabha.",
+    "img": "https://timesofindia.indiatimes.com/thumb/msid-82239680,width-400,resizemode-4/82239680.jpg?imglength=113028"
+  }
   ]
 }
