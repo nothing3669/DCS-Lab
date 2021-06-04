@@ -102,6 +102,16 @@
       "id": 1,
       "image": "https://raw.githubusercontent.com/nothing3669/Images/main/h.png",
       "desc": "This is the First Image of Home Page"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/nothing3669/Images/main/i.png",
+      "desc": "This is the Second Image of Home Page"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/nothing3669/Images/main/j.png",
+      "desc": "This is the Third Image of Home Page"
     }
   ]
 }
