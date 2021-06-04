@@ -95,5 +95,13 @@
       "desc": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
       "url": "https://timesofindia.indiatimes.com/india/coronavirus-lockdown-in-india-covid-19-vaccine-cases-oxygen-crisis-live-updates-27-april-2021/liveblog/82267160.cms"
     }
+  ],
+  "Home": 
+  [
+    {
+      "id": 1,
+      "image": "",
+      "desc": ""
+    }
   ]
 }
