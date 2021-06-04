@@ -56,5 +56,11 @@
       "desc": "Image Description",
       "img": "https://wallpapercave.com/wp/wp2450496.jpg"
     }
-  ] 
+  ],
+  "News":
+  [
+    {
+      "id": 1
+    }
+  ]
 }
